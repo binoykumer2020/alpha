@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c203f0-dea0-40e2-b579-8ad2a54151d3" name="Default Changelist" comment="" />
+    <list default="true" id="f0c203f0-dea0-40e2-b579-8ad2a54151d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junitDemo/TestClassGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,6 +36,7 @@
   </component>
   <component name="ProjectId" id="1WFydgTjYQqzlZCOugDqswpw2uV" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -43,8 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IndianCoutureTest.openBrowser">
-    <configuration name="AssertionDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestClassGit">
+    <configuration name="TestClassGit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junitDemo.TestClassGit" />
       <module name="alpha" />
       <extension name="coverage">
         <pattern>
@@ -52,9 +61,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.junitDemo" />
-      <option name="MAIN_CLASS_NAME" value="com.junitDemo.AssertionDemo" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestClassGit" />
         <item itemvalue="JUnit.IndianCoutureTest.openBrowser" />
         <item itemvalue="JUnit.IndianCoutureTest.clickOnSignin" />
         <item itemvalue="JUnit.IndianCoutureTest.fillTheRegisterForm" />
         <item itemvalue="JUnit.IndianCoutureTest.navigateToURL" />
-        <item itemvalue="JUnit.AssertionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +150,31 @@
       <option name="presentableId" value="Default" />
       <updated>1578759725927</updated>
     </task>
+    <task id="LOCAL-00001" summary="testing">
+      <created>1588378612445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588378612445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
 </project>
